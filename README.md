@@ -1,4 +1,4 @@
-👨‍🎓 42Tokyoというエンジニア養成機関の学生 / 筑波大学の情報科学の岡研究室出身
+👨‍🎓 42Tokyoというエンジニア養成機関の学生 / 筑波大学岡研究室出身
 
 🔧 技術スタック: C, C++, Shell, HTML, CSS, JavaScript, React, TypeScript, Python
 
