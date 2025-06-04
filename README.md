@@ -1,5 +1,7 @@
 👨‍🎓 42Tokyoというエンジニア養成機関の学生 / 筑波大学の情報科学の研究室出身
+
 🔧 技術スタック: C, C++, Shell, HTML, CSS, JavaScript, React, TypeScript
+
 🎓 卒業研究テーマ: GenSQLを用いた合成データ生成におけるデータ量と精度評価
 
 
