@@ -1,4 +1,7 @@
-## Hi there 👋
+👨‍🎓 情報科学を専攻する大学生 / 42Tokyoというエンジニア養成機関の学生 / Webエンジニア志望 
+🔧 技術スタック: C, C++, Shell, HTML, CSS, JavaScript, React, TypeScript
+🎓 卒業研究テーマ: GenSQLを用いた合成データ生成におけるデータ量と精度評価
+
 
 <!--
 **acta0724/acta0724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
